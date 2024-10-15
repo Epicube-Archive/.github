@@ -2,7 +2,7 @@
 
 Merci de votre intérêt pour la contribution au projet Epicube Archive !
 <br>
-Voici une list de quelques directives simples pour vous aider à participer.
+Voici une liste de quelques directives simples pour vous aider à participer.
 
 ## Comment contribuer
 
