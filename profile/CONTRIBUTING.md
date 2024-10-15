@@ -35,7 +35,7 @@ Voici une liste de quelques directives simples pour vous aider à participer.
 Si vous avez des questions ou besoin d'aide, n'hésitez pas à :
 
 - Ouvrir une issue pour discussion
-- Nous contacter sur Discord
+- Nous contacter sur [notre Discord](https://discord.epicube.fr)
 - Envoyer un email à [contact@epicube.fr](mailto:contact@epicube.fr)
 
 ---
